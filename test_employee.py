@@ -1,4 +1,4 @@
-from employee import employee_details
+from lab_pgm6 import employee_details
 
 def test_employee_datails():
     result =employee_details("Rahul","EMP101","IT",50000)
